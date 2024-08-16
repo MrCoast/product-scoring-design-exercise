@@ -1,0 +1,7 @@
+.env
+dist
+build
+node_modules
+.cache
+nohup.out
+yarn-error.log
